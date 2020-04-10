@@ -69,3 +69,8 @@ public String getId() {
 
 
 }
+class Canvas {
+    List<Points> tocki;
+
+    tocki.delete();
+}
